@@ -1,7 +1,7 @@
 # Salons du discord
 Ce dossier regroupe tous les salons du discord et leur descriptions.
 
-###Liste des salons et des catégories :
+### Liste des salons et des catégories :
 - [Système](./1%20-%20Système)
   - [Règlement](./1%20-%20Système/1_règlement.md)
   - [Annonces](./1%20-%20Système/2_annonces.md)
