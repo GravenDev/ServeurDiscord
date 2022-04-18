@@ -4,4 +4,4 @@ textuels associés.
 
 ## Salons :
 - [`#🎤︱no-mic`](1_no-mic.md)
-- [`#🎵︱musique`](2_musique-dev.md)
+- [`#🎵︱musique`](2_musique.md)
