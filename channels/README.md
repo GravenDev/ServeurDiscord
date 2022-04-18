@@ -20,6 +20,7 @@ Ce dossier regroupe tous les salons du discord et leur descriptions.
   - [No mic](./3%20-%20Salons%20vocaux/1_no-mic.md)
   - [Musique](./3%20-%20Salons%20vocaux/2_musique.md)
 - [Salons d'aide](./4%20-%20Salons%20d'aide)
+  - [Vidéos Graven](./4%20-%20Salons%20d'aide/00_videos-graven.md) 
   - [Python](./4%20-%20Salons%20d'aide/01_python.md)
   - [Pygame](./4%20-%20Salons%20d'aide/02_pygame.md)
   - [Java / JVM](./4%20-%20Salons%20d'aide/03_java-jvm.md)
