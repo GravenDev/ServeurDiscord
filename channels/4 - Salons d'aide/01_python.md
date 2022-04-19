@@ -72,6 +72,10 @@ ajouter python au path:
 https://discord.com/channels/763846236766732368/763849115238400063/818208033309196320
 *(message original par GAMINGDY#1882 [633710128004202516] )*
 
+mettre du code en forme sur discord:
+https://discord.com/channels/763846236766732368/763849115238400063/767478833585586246
+*(message original par RedsTom#4616 [723471302123323434] )*
+
 faire des .exe avec python:
 https://docs.drlazor.be/python_exe.md 
 
@@ -359,4 +363,30 @@ __Étape finale:__
 Nous voilà dans le dernier menu, parmis les différents choix choisir ``Add python to environn..``  et enfin ``install``
 
 Et voilà maintenant vous avez réussi à ajouter Python au PATH
+```
+```
+Si vous voulez coller votre code dans discord, voici la procédure à suivre : 
+\`\`\`language
+Votre code
+\`\`\`
+
+Ce qui donne :
+\`\`\`java
+public static void main(String[] args){
+  int i = 5;
+}
+\`\`\`
+
+Pour le texte :
+\\`\\`\\`java
+public static void main(String[] args){
+  int i = 5;
+}
+\\`\\`\\`
+
+Si votre code est trop **grand** pour discord, veuillez utiliser hastebin ou github gist :
+ - https://hastebin.com/ (peut parfois ne pas marcher, temporaire)
+ - https://gist.github.com/ (requiert un compte, permanent)
+
+Les 2 sites sont presque identiques, mais si l'un ne marche pas, utilisez l'autre
 ```
