@@ -24,62 +24,62 @@ langage Python
 
 __Voici un petit condensé des message épinglé pour ameliorer la lisibilité:__
 
-Apprendre python, par ou commencer?:
-https://discord.com/channels/763846236766732368/763849115238400063/785501088865320960
-*(message original par leo_85.pyd#0997 [279991875941826560] )*
+Apprendre python, par ou commencer?:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/785501088865320960<br/>
+*(message original par leo_85.pyd#0997 [279991875941826560] )*<br/>
 
-Concernant la sécurité informatique (piratage ou protection):
-https://discord.com/channels/763846236766732368/763849115238400063/962409349400113202
-*(message original par leo_85.pyd#0997 [279991875941826560] )*
+Concernant la sécurité informatique (piratage ou protection):<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/962409349400113202<br/>
+*(message original par leo_85.pyd#0997 [279991875941826560] )*<br/>
 
-Problème ``no module named [...]``:
-https://discord.com/channels/763846236766732368/763849115238400063/956227416160874557
-*(message original par GAMINGDY#1882 [633710128004202516] )*
+Problème ``no module named [...]``:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/956227416160874557<br/>
+*(message original par GAMINGDY#1882 [633710128004202516] )*<br/>
 
-Problèmes avec pip:
-https://discord.com/channels/763846236766732368/763849115238400063/956225507601555526
-*(message original par canne_à_pêche#7041 [704779822890745986] )*
+Problèmes avec pip:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/956225507601555526<br/>
+*(message original par canne_à_pêche#7041 [704779822890745986] )*<br/>
 
-Comprendre l'asynchrone:
-https://discord.com/channels/763846236766732368/763849115238400063/953216963688136724
-*(message original par Dr Lazor#6737 [87605725857058816] )*
+Comprendre l'asynchrone:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/953216963688136724<br/>
+*(message original par Dr Lazor#6737 [87605725857058816] )*<br/>
 
-Créer un timer:
-https://discord.com/channels/763846236766732368/763849115238400063/935845300931809300
-*(message original par Victorem4Ever#1182 [348446010906902528] )*
+Créer un timer:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/935845300931809300<br/>
+*(message original par Victorem4Ever#1182 [348446010906902528] )*<br/>
 
-Différences entre les methodes "normales", les methodes de class et les methodes statiques:
-https://discord.com/channels/763846236766732368/763849115238400063/889455643113689088
-*(message original par horus#5799 [634745432148279306] )*
+Différences entre les methodes "normales", les methodes de class et les methodes statiques:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/889455643113689088<br/>
+*(message original par horus#5799 [634745432148279306] )*<br/>
 
-Les domaines d'éfficacité de Python:
-https://discord.com/channels/763846236766732368/763849115238400063/842820668856467457
-*(message original par Dr Lazor#6737 [87605725857058816] )*
+Les domaines d'éfficacité de Python:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/842820668856467457<br/>
+*(message original par Dr Lazor#6737 [87605725857058816] )*<br/>
 
-Le fonctionement des variables en Python:
-https://discord.com/channels/763846236766732368/763849115238400063/834107681853407275
-*(message original par horus#5799 [634745432148279306] )*
+Le fonctionement des variables en Python:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/834107681853407275<br/>
+*(message original par horus#5799 [634745432148279306] )*<br/>
 
-Faire un choix multiple avec input():
-https://discord.com/channels/763846236766732368/763849115238400063/826129628896821268
-*(message original par leo_85.pyd#0997 [279991875941826560] )*
+Faire un choix multiple avec input():<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/826129628896821268<br/>
+*(message original par leo_85.pyd#0997 [279991875941826560] )*<br/>
 
-Le système d'import de Python:
-https://discord.com/channels/763846236766732368/763849115238400063/823973925351587850
-*(message original par leo_85.pyd#0997 [279991875941826560] )*
+Le système d'import de Python:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/823973925351587850<br/>
+*(message original par leo_85.pyd#0997 [279991875941826560] )*<br/>
 
-Ajouter Python au path:
-https://discord.com/channels/763846236766732368/763849115238400063/818208033309196320
-*(message original par GAMINGDY#1882 [633710128004202516] )*
+Ajouter Python au path:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/818208033309196320<br/>
+*(message original par GAMINGDY#1882 [633710128004202516] )*<br/>
 
-Mettre du code en forme sur discord:
-https://discord.com/channels/763846236766732368/763849115238400063/767478833585586246
-*(message original par RedsTom#4616 [723471302123323434] )*
+Mettre du code en forme sur discord:<br/>
+https://discord.com/channels/763846236766732368/763849115238400063/767478833585586246<br/>
+*(message original par RedsTom#4616 [723471302123323434] )*<br/>
 
-Faire des .exe avec python:
+Faire des .exe avec python:<br/>
 https://docs.drlazor.be/python_exe.md 
 
-Exercices de Python tout niveaux:
+Exercices de Python tout niveaux:<br/>
 https://github.com/Astremy/ProblemesAlgorithmiques/
 
 
