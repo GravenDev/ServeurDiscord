@@ -21,109 +21,109 @@ langage Python
 # message(s) épinglé(s)
 
 ## message 1 (par leo_85.pyd#0997 [279991875941826560])
-```
-__voici un petit condensé des message épinglé pour ameliorer la lisibilité:__
+```md
+__Voici un petit condensé des message épinglé pour ameliorer la lisibilité:__
 
-apprendre python, par ou commencer:
+Apprendre python, par ou commencer?:
 https://discord.com/channels/763846236766732368/763849115238400063/785501088865320960
 *(message original par leo_85.pyd#0997 [279991875941826560] )*
 
-concernant la sécurité informatique (piratage ou défense):
+Concernant la sécurité informatique (piratage ou protection):
 https://discord.com/channels/763846236766732368/763849115238400063/962409349400113202
 *(message original par leo_85.pyd#0997 [279991875941826560] )*
 
-probleme ``no module named [...]``:
+Problème ``no module named [...]``:
 https://discord.com/channels/763846236766732368/763849115238400063/956227416160874557
 *(message original par GAMINGDY#1882 [633710128004202516] )*
 
-probleme avec pip:
+Problèmes avec pip:
 https://discord.com/channels/763846236766732368/763849115238400063/956225507601555526
 *(message original par canne_à_pêche#7041 [704779822890745986] )*
 
-comprendre l'asynchrone:
+Comprendre l'asynchrone:
 https://discord.com/channels/763846236766732368/763849115238400063/953216963688136724
 *(message original par Dr Lazor#6737 [87605725857058816] )*
 
-créer un timer:
+Créer un timer:
 https://discord.com/channels/763846236766732368/763849115238400063/935845300931809300
 *(message original par Victorem4Ever#1182 [348446010906902528] )*
 
-difference entre les methodes "normales", les methodes de class et les methodes statiques:
+Différences entre les methodes "normales", les methodes de class et les methodes statiques:
 https://discord.com/channels/763846236766732368/763849115238400063/889455643113689088
 *(message original par horus#5799 [634745432148279306] )*
 
-les domaines d'éfficacité de python:
+Les domaines d'éfficacité de Python:
 https://discord.com/channels/763846236766732368/763849115238400063/842820668856467457
-*(message original par Dr Lazor#6737 [87605725857058816] )**
+*(message original par Dr Lazor#6737 [87605725857058816] )*
 
-le fonctionement des variables en python:
+Le fonctionement des variables en Python:
 https://discord.com/channels/763846236766732368/763849115238400063/834107681853407275
 *(message original par horus#5799 [634745432148279306] )*
 
-faire un choix multiple avec input():
+Faire un choix multiple avec input():
 https://discord.com/channels/763846236766732368/763849115238400063/826129628896821268
 *(message original par leo_85.pyd#0997 [279991875941826560] )*
 
-le systeme d'import de python:
+Le système d'import de Python:
 https://discord.com/channels/763846236766732368/763849115238400063/823973925351587850
 *(message original par leo_85.pyd#0997 [279991875941826560] )*
 
-ajouter python au path:
+Ajouter Python au path:
 https://discord.com/channels/763846236766732368/763849115238400063/818208033309196320
 *(message original par GAMINGDY#1882 [633710128004202516] )*
 
-mettre du code en forme sur discord:
+Mettre du code en forme sur discord:
 https://discord.com/channels/763846236766732368/763849115238400063/767478833585586246
 *(message original par RedsTom#4616 [723471302123323434] )*
 
-faire des .exe avec python:
+Faire des .exe avec python:
 https://docs.drlazor.be/python_exe.md 
 
-exercices de python tout niveaux:
+Exercices de Python tout niveaux:
 https://github.com/Astremy/ProblemesAlgorithmiques/
 
 ```
 
 # Annexe 
-## originaux des messages cité plus haut, dans l'ordre, au cas ou il serais altéré/supprimé
+## originaux des messages cités plus haut, dans l'ordre, au cas ou il serais altérés/supprimés
 
 <br/>
 
-### apprendre python, par ou commencer:
+### Apprendre python, par ou commencer?:
 ```
-la plupart des débutants en programmation entreprennent des projet trop complexe pour eux sans s'en rendre compte. si vous apprenez la programmation depuis moins de 6mois-1an et que vous avez des difficulté a avancer dans un projet qui concerne tkinter, discord.py, pygame, threading,  panda3D,  tenserflow, etc (liste non-exhaustive) sachez que c'est tout a fait normal et qu'il sera plus enrichissant pour vous de mettre ces projet en pause le temps d'étoffer votre apprentissage. la manipulation de ces modules nécessite des connaissance relativement avancée parmi lesquelles:
+La plupart des débutants en programmation entreprennent des projets trop complexe pour eux sans s'en rendre compte. si vous apprenez la programmation depuis moins de 6 mois ~ 1 an et que vous avez des difficultés à avancer dans un projet qui concerne tkinter, discord.py, pygame, threading,  panda3D,  tenserflow, etc (liste non-exhaustive) sachez que c'est tout a fait normal et qu'il sera plus enrichissant pour vous de mettre ces projet en pause le temps d'étoffer votre apprentissage. En effet la manipulation de ces modules nécessite des connaissances relativement avancées parmis lesquelles:
 
 - programmation objet
-- gestion d'exception
+- gestion d'exceptions
 - décorateurs
 - programmation évènementielle 
-- manipulation de thread ou d'asynchrone
-- action bloquante/non-bloquante
+- manipulation de threads ou d'asynchrone
+- action bloquantes/non-bloquantes
 
-(encore une fois liste non-exhaustive) si vous ne savez pas ce qu'est une fonction, un objet, ou manipuler les boucle comme for et while. vous avez tout a gagner a laisser votre projet de coté le temps de vous consolider et même entreprendre des projet plus a votre échelle afin d'accumuler des connaissance pour celui qui vous tient vraiment a cœur.
-(ne soyez pas effrayé de lâcher un projet pendant plusieurs mois. accumuler de la frustration en échouant continuellement sur une librairie de trop haut niveau peux vous dégouter de la programmation en général, cela serais contre productif)
+(encore une fois liste non-exhaustive) si vous ne savez pas ce qu'est une fonction, un objet, ou manipuler les boucles comme for et while. vous avez tout a gagner a laisser votre projet de coté le temps de vous consolider et même entreprendre des projet plus a votre échelle afin d'accumuler des connaissance pour celui qui vous tient vraiment a cœur.
+Ne soyez pas effrayé de lâcher un projet pendant plusieurs mois, accumuler de la frustration en échouant continuellement sur une librairie de trop haut niveau peux vous dégouter de la programmation en général, cela serais contre productif.
 
-vous trouverez un bon cours a cette adresse: https://inforef.be/swi/download/apprendre_python3_5.pdf
+Vous trouverez un bon cours a cette adresse: https://inforef.be/swi/download/apprendre_python3_5.pdf
 et pour les personnes qui preferent les vidéos: https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC et https://www.youtube.com/watch?v=HVN4qv6Dxdk&list=PLrSOXFDHBtfEiSgOG1FM4oq-yS24iV4s1
 ```
 <br/>
 
-### concernant la sécurité informatique (piratage ou défense):
+### Concernant la sécurité informatique (piratage ou protection):
 ```
-Il y a souvent des question illégale mais pas malveillante ici comme "comment je surcharge mon propre site de demande de co pour voir si il tient la charge", "comment j'attaque mon propre programme pour voir si il est safe", "comment les pirates informatiques s'y prennent pour faire X" etc... 
+Il y a souvent des question illégales mais pas malveillantes ici comme "Comment je surcharge mon propre site de demandes de connection pour voir si il tient la charge?", "Comment j'attaque mon propre programme pour voir si il est sûr?", "Comment les pirates informatiques s'y prennent pour faire X?" etc... 
 
-Vous pouvez nous garantir autant que vous voulez que vos intentions sont honnête: on est sur internet, on ne vous connais pas (pour la plupart du staff on ne se connais même pas entre nous) bref nous n'avons aucun moyen de garantir que vous êtes réellement honnête
+Vous pouvez nous garantir autant que vous voulez que vos intentions sont honnêtes: on est sur internet, on ne vous connais pas (pour la plupart du staff on ne se connais même pas entre nous) bref nous n'avons aucune garantie que vous êtes réellement honnête
 
-Ici (serveur discord de Graven) personne n'est **a la fois** compétant **et** motivé pour encadrer un salon de sécurité informatique, ca demanderais toute une logistique comme par exemple trier ceux qui peuvent y accéder (qui est de confiance, qui ne l'est pas et celons quels critères) et comment on gère les situation de crise quand des connaissances sont utilisées de façon malveillantes, 
+Ici (serveur discord de Graven) personne n'est **à la fois** compétant **et** motivé pour encadrer un salon de sécurité informatique, cela demanderais toute une logistique comme par exemple trier ceux qui peuvent y accéder (qui est de confiance, qui ne l'est pas et celons quels critères) et comment on gère les situation de crise quand des connaissances sont utilisées de façon malveillantes, 
 sachez toute fois que le serveur discord ``Not a Name`` possède un tel salon mais l'entrée y est extrêmement sélective
 
-Pour les question de sécurité côté "défensif" par contre  comme "comment je protèges ma base de données?", "comment je stoque les mots de passe de mes utilisateur?", etc étant donnée que ca n'est pas illégal il n'y a aucune raison de ne pas vous aider
+Pour les question de sécurité côté protection par contre  comme "Comment je protège ma base de donnée?", "Comment je stoque les mots de passe de mes utilisateurs?", etc étant donné que ca n'est pas illégal il n'y a aucune raison de ne pas vous aider.
 ```
 <br/>
 
-### probleme ``no module named [...]``:
+### Problème ``no module named [...]``:
 ```
-Vous avez l'erreur ``No module name 'package_name'``, pourtant vous êtes sur d'avoir installé ledit package ?
+Vous avez l'erreur ``No module name 'package_name'``, pourtant vous êtes sûr d'avoir installé ledit package ?
 
 Tout d'abord vérifiez si vous avez un dossier ``.env`` ou ``.venv`` dans votre projet. **Si vous n'en voyez pas, vérifiez si vous avez activé l'option "afficher les fichiers cachés" dans votre explorateur de fichiers**, il est fort probable que vous ayez installé le package dans un environnement virtuel, surtout si vous avez créé le projet depuis Pycharm par exemple.
 
@@ -136,12 +136,12 @@ Si les dossiers ne sont pas présents alors vous pouvez faire ``pip install pack
 ```
 <br/>
 
-### probleme avec pip:
+### Problèmes avec pip:
 ```
-Pip permet d'installer des packages (= bibliothèques, modules) hébergés https://pypi.org/, avec la commande ``pip install <package>``.
-Mais vous pouvez avoir des erreurs avec ceci.
+Pip permet d'installer des packages (= bibliothèques, modules) avec la commande ``pip install <package>``.
+Mais vous pouvez rencontrer des erreurs parmis lesquelles:
 
-**1. Commande non reconnu**
+**1. Commande non reconnue**
 \`\`\`
 'pip’ n'est pas reconnu en tant que commande interne
 ou externe, un programme exécutable ou un fichier de commandes
@@ -150,19 +150,19 @@ ou externe, un programme exécutable ou un fichier de commandes
 Pour régler cette erreur, il faut ajouter les modules commandes de python (pip, wheel...) au path, ou faire ``py -m pip install <package>`` sur windows / ``python -m pip install <package>`` sur unix-like.
 
 **2. No module named pip**
-Vous faîtes la deuxième option (avec -m pip), mais vous obtenez :
+Vous utilisez la deuxième option (avec -m pip), mais vous obtenez :
 \`\`\`
 No module named pip
 \`\`\`
 
-Dans ce cas, pip n'est simplement... pas installé. Pour l'installer, voici la doc officielle : https://pip.pypa.io/en/stable/installation/
+Dans ce cas, pip n'est simplement... pas installé. Pour l'installer, voici la documentation officielle : https://pip.pypa.io/en/stable/installation/
 
 **3. Package installé, mais erreur dans le code**
 \`\`\`
-ModuleNotFoundError: No module named
+ModuleNotFoundError: No module named <package>
 \`\`\`
 Vous avez installé le package, mais ça ne marche pas ? Le module est sûrement installé sur le mauvais python.
-Par ex, votre ordinateur a python version 3.9, et 3.10 : si vous lancez votre code avec ce dernier mais installez le package avec le premier, ça fait une erreur. Pour régler ça, faîtes :
+Par exemple, votre ordinateur a python version 3.9, et 3.10 : si vous lancez votre code avec ce dernier mais installez le package avec le premier, ça ne fonctionenra pas. Pour régler ça, faites :
 \`\`\`py
 # Remplacez 3.10 par la version avec laquelle vous lancez le code
 # Windows
@@ -172,11 +172,11 @@ python3.10 -m pip install <package>
 \`\`\`
 ```
 
-### comprendre l'asynchrone:
+### Comprendre l'asynchrone:
 ```
-Vous ne connaissez rien à l'asynchrone
+Vous ne connaissez rien à l'asynchrone?
 
-Une liste de références que je trouve intéressante à lire pour comprendre l'art de la programmation événementielle (sans ordre particulier):
+Voici une liste de références que je trouve intéressante à lire pour comprendre l'art de la programmation événementielle (sans ordre particulier):
 
 Théorie
 https://zestedesavoir.com/articles/152/la-puissance-cachee-des-coroutines/ (nohar; coroutines)
@@ -203,13 +203,13 @@ https://pymotw.com/3/asyncio/index.html
 https://curio.readthedocs.io/en/latest/
 https://trio.readthedocs.io/en/stable/
 
-Ma contribution perso
+Ma contribution personelle
 https://git.drlazor.be/?p=pyloop;a=
 summary (lazor; basic event loop)
 https://youtu.be/oVQAyQF9jy8 (astremy & lazor; live coding: async network server)
 ```
 
-### créer un timer:
+### Créer un timer:
 ```
 Cette question revient souvent :
 Comment faire un timer qui ne bloque pas ?
@@ -225,9 +225,8 @@ Pour récupérer une timestamp il suffit d'appeler la fonction time comme cela :
 Maintenant, il faut comparer votre temps initial, que vous stockerez dans une variable, avec le temps actuel.
 \`\`\`py
 start = time.time()
-def timer(start):
-    return time.time() - start
-    # temps actuel - temps initial
+# do something
+print(time.time() - start) # temps actuel - temps initial = durée
 \`\`\`
 
 Vous aurez donc le temps en seconde qui s'est écoulé depuis que vous avez assigné start
@@ -243,7 +242,7 @@ while time.time() - start <= 10:
 La boucle s'arrêtera après 10 secondes.
 ```
 
-### difference entre les methodes "normales", les methodes de class et les methodes statiques:
+### Différences entre les methodes "normales", les methodes de class et les methodes statiques:
 ```
 Il y a trois types de méthodes :
 - méthodes "normales"
@@ -253,10 +252,10 @@ Une méthode "normale" prend en paramètre l'instance de la classe appelant la m
 Une méthode de classe prend en paramètre la classe de la méthode. ``f(cls, *args)``
 Une méthode statique est une fonction libre dans l'espace de nom de la classe. ``f(*args)``
 
-Une méthode statique est, entre guillemets, indépendante d'une classe ou d'une instance. 
+Une méthode statique est, entre guillemets, "indépendante" d'une classe ou d'une instance. 
 ```
 
-### les domaines d'éfficacité de python:
+### Les domaines d'éfficacité de python:
 ```
 Python carbure pour:
 - **Le développement d'applications web.** Il existe de nombreux framework pour tous les goûts et leur performances sont décentes. Dropbox, Youtube et Instagram utilisent python par exemple. Django, Flask, Aiohttp sont quelques exemples de frameworks.
@@ -270,7 +269,7 @@ A contrario, Python **__n'est pas__** le langage que je recommanderais pour les 
 - **Le développement mobile**, jusqu'à peu il n'y avait tout simplement pas moyen de de déployer un programme python ni sur android ni sur iOS.
 ```
 
-### le fonctionement des variables en python:
+### Le fonctionement des variables en python:
 ```
 En Python, on ne manipule jamais des valeurs, mais toujours des références !
 
@@ -289,9 +288,9 @@ Les cas suivants décrémentent le compteur de références de l'objet référen
 - opérateur de "unbind" del : del b
 ```
 
-### faire un choix multiple avec input():
+### Faire un choix multiple avec input():
 ```
-un truc aussi que je vois beaucoup trop ici:
+Quelque chose que je vois beaucoup trop ici:
 \`\`\`py
 if reponse in ("oui", "Oui", "OuI", "OUi", "OUI", "oUI", "oUi", "ouI"):
     # code
@@ -304,35 +303,34 @@ et si il y a plusieurs choix:
 \`\`\`py
 if reponse.lower() in ("oui", "non"):
 \`\`\`
-les methode lower et upper convertissent les chaines de caractère respectivement  en minuscule et en majuscule, et comme les str sont des types immuable ca ne change rien a l'état de la chaine
+Les methodes lower et upper convertissent les chaines de caractère respectivement  en minuscule et en majuscule, et comme les str sont des types immuable ca ne change rien a l'état de la chaine d'origine.
 ```
 
-### le systeme d'import de python:
+### Le système d'import de python:
 ```
-en prog on déteste réimplémenter la roue et donc on met du code réutilisable dans des modules
-la meilleur facon d'importer un module c'est le classique
+En programmation on déteste réimplémenter la roue, on met donc du code réutilisable dans des modules.
+La meilleur facon d'importer un module c'est le classique:
 \`\`\`py
 import foo
 \`\`\`
-par la suite si on veux utiliser une fonction bar du module foo on fera bêtement
+Par la suite si on veux utiliser une fonction bar du module foo on fera bêtement
 \`\`\`py
 foo.bar()
 \`\`\`
-c'est la methode la plus recommandé puisqu'a la relecture d'un code on sait tout de suite d'ou vient quoi (ca se lis a l'envers: "la fonction bar du module foo")
-quand on utilise entre 1 et (grand max) 5 element d'un module on peu passer par from/import 
+C'est la methode la plus recommandé puisqu'a la relecture d'un code on sait tout de suite d'où vient quoi (ca se lis a l'envers: "la fonction bar du module foo")
+quand on utilise entre 1 et (grand max) 5 éléments d'un module on peu passer par from/import 
 \`\`\`py
 from foo import bar, spam, egg
 \`\`\`
-en faisant ca les noms sont directement ajouté au namespace on écrira donc bar(), spam(), egg() au lieux de foo.bart(), foo.spam() et foo.egg()
-ca reste encore relativement propre/lisible puisqu'un coup d'oeil aux imports permet de savoir d'ou vient quoi
+en faisant ca les noms sont directement ajouté au namespace courant on écrira donc bar(), spam(), egg() au lieux de foo.bar(), foo.spam() et foo.egg()
+Ca reste encore relativement propre/lisible puisqu'un coup d'oeil aux imports permet de savoir d'ou vient quoi.
 
 enfin il reste le "star import" qui permet de tuer la lisibilité de son code, de se perdre dans qu'est ce qui appartient a qui et de "ah oui mais non cette fonction la a été écrasé trois fois"
 \`\`\`py
 from foo import *
 \`\`\`
-cette syntaxe deverse tout le contenu du module dans le namespace courant et ca peux entrainer des tas de problemes
-notament l'impossibilité de savoir d'ou vient quoi mais surtout l'écrasement des noms identiques
-mettons trois module A, B et C qui contiennent tous le nom Draw:
+cette syntaxe deverse tout le contenu du module dans le namespace courant et cela peux entrainer beaucoup de problèmes, notament l'impossibilité de savoir d'ou vient quoi mais surtout l'écrasement des noms identiques.
+Mettons trois module A, B et C qui contiennent tous le nom Draw:
 \`\`\`py
 from A import * # ou Draw est une variable
 from B import * # ou Draw est une fonction
@@ -340,13 +338,13 @@ from C import * # ou Draw est un objet
 
 a = Draw #c'est quoi a?
 \`\`\`
-pire que ca si je crée un nom Draw dans mon programme j'écrase toute les reference de Draw des modules que j'ai importé
-bref toujours être sûr de ce qu'on fait avec les star import
+Pire que ca si je crée un nom Draw dans mon programme j'écrase toute les références de Draw des modules que j'ai importé dans éon namespace.
+Bref toujours être sûr de ce qu'on fait avec les star import
 
-(une dernière chose pour les import truc as machin. on reservera cette syntaxe au lib tierces comme Tkinter ou numpy et pas a la std lib)
+(une dernière chose pour les \`\`import truc as machin\`\`. on réservera cette syntaxe au librairies tierces comme Tkinter ou numpy et pas a la librairie standard)
 ```
 
-### ajouter python au path:
+### Ajouter python au path:
 ```
 __**Comment ajouter Python au PATH:**__
 
@@ -364,6 +362,7 @@ Nous voilà dans le dernier menu, parmis les différents choix choisir ``Add pyt
 
 Et voilà maintenant vous avez réussi à ajouter Python au PATH
 ```
+### Mettre du code en forme sur discord:
 ```
 Si vous voulez coller votre code dans discord, voici la procédure à suivre : 
 \`\`\`language
@@ -388,5 +387,5 @@ Si votre code est trop **grand** pour discord, veuillez utiliser hastebin ou git
  - https://hastebin.com/ (peut parfois ne pas marcher, temporaire)
  - https://gist.github.com/ (requiert un compte, permanent)
 
-Les 2 sites sont presque identiques, mais si l'un ne marche pas, utilisez l'autre
+Les 2 sites sont presque identiques, si l'un ne marche pas utilisez l'autre
 ```
