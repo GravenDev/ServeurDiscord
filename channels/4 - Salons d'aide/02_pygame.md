@@ -16,7 +16,7 @@ librairie Pygame
 # Message(s) Épinglé(s)
 
 ## Message 1 (par leo_85.pyd#0997 [279991875941826560])
-```
+
 Petits rappels de base qui (je pense) ne feront de mal à personne :
 
 - la série pygame de graven n'est pas un cours de python, elle suppose que vous avez déjà appris le langage et que vous avez une certaine pratique.
@@ -28,11 +28,12 @@ Petits rappels de base qui (je pense) ne feront de mal à personne :
 
 plus de détails sur la nécessité d'apprendre le python avant d'attaquer un gros projet comme un jeu vidéo ici :
 https://discord.com/channels/763846236766732368/763849115238400063/785501088865320960
-```
-note: le dernier lien de ce message se réfère au [premier message épinglé du salon python](https://github.com/desaleo/ServeurDiscord/blob/master/channels/4%20-%20Salons%20d'aide/01_python.md)
+
+### note:
+ le dernier lien de ce message se réfère au [premier message épinglé du salon python](https://github.com/desaleo/ServeurDiscord/blob/master/channels/4%20-%20Salons%20d'aide/01_python.md)
 
 ## Message 2 (par Graven#4949 [238326044988276738])
-```
+
 Yo les devs ! J'épingle ce message pour l'aide sur la derniere video pygame.
 
 **Comment faire si mon code de l'episode 1 ne fonctionne pas ?**
@@ -51,15 +52,14 @@ Tu dois placer des rectangles pile poil sur la tuile sinon la détéction ne se 
 1. Remet la video en arrière pour voir si tu n'as pas loupé une étape 
 2. As tu bien mit le bon nom de variable ? "tmxdata" est different de "tmx_data".
 
-⚠️ Merci de ne spammer le canal de 78 captures d'ecran illisible et d'expliquer clairement le problème en indiquant le minutage.
+⚠️ Merci de ne spammer le canal de 78 captures d'écran illisible et d'expliquer clairement le problème en indiquant le minutage.
 
 Vous avez la possibilité de me mentionner ou pm si besoin (me relancer au bout de 24h si je ne repond pas)
-```
+
 ## Message 3 (par Graven#4949 [238326044988276738])
-```
+
 Si vous avez besoin d'aide sur mes videos pygame go me mp (j'accepte tout le monde en amis)
-```
+
 ## Message 4 (par Graven#4949 [238326044988276738])
-```
+
 https://www.youtube.com/watch?v=9lUh_3RItAY
-```
