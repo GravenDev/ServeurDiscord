@@ -13,9 +13,9 @@ librairie Pygame
 |:---|:---|
 | TNtube#9999 | 610843701861679108 |
 
-# message(s) épinglé(s)
+# Message(s) Épinglé(s)
 
-## message 1 (par leo_85.pyd#0997 [279991875941826560])
+## Message 1 (par leo_85.pyd#0997 [279991875941826560])
 ```
 Petits rappels de base qui (je pense) ne feront de mal à personne :
 
@@ -31,7 +31,7 @@ https://discord.com/channels/763846236766732368/763849115238400063/7855010888653
 ```
 note: le dernier lien de ce message se réfère au [premier message épinglé du salon python](https://github.com/desaleo/ServeurDiscord/blob/master/channels/4%20-%20Salons%20d'aide/01_python.md)
 
-## message 2 (par Graven#4949 [238326044988276738])
+## Message 2 (par Graven#4949 [238326044988276738])
 ```
 Yo les devs ! J'épingle ce message pour l'aide sur la derniere video pygame.
 
@@ -55,11 +55,11 @@ Tu dois placer des rectangles pile poil sur la tuile sinon la détéction ne se 
 
 Vous avez la possibilité de me mentionner ou pm si besoin (me relancer au bout de 24h si je ne repond pas)
 ```
-## message 3 (par Graven#4949 [238326044988276738])
+## Message 3 (par Graven#4949 [238326044988276738])
 ```
 Si vous avez besoin d'aide sur mes videos pygame go me mp (j'accepte tout le monde en amis)
 ```
-## message 4 (par Graven#4949 [238326044988276738])
+## Message 4 (par Graven#4949 [238326044988276738])
 ```
 https://www.youtube.com/watch?v=9lUh_3RItAY
 ```
