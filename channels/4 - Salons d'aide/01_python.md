@@ -18,9 +18,9 @@ langage Python
 
 <br/>
 
-# message(s) épinglé(s)
+# Message(s) Épinglé(s)
 
-## message 1 (par leo_85.pyd#0997 [279991875941826560])
+## Message 1 (par leo_85.pyd#0997 [279991875941826560])
 ```md
 __Voici un petit condensé des message épinglé pour ameliorer la lisibilité:__
 
@@ -85,7 +85,7 @@ https://github.com/Astremy/ProblemesAlgorithmiques/
 ```
 
 # Annexe 
-## originaux des messages cités plus haut, dans l'ordre, au cas ou il serais altérés/supprimés
+## Originaux des messages cités plus haut, dans l'ordre, au cas ou il serais altérés/supprimés
 
 <br/>
 
