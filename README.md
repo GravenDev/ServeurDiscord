@@ -1,5 +1,3 @@
-# WON'T BE UPDATED - PUBLIC ARCHIVE
-
 <h3 align="center">
   <img src="https://avatars.githubusercontent.com/u/78621926?s=200&v=4" width="75"><br/>
   Graven - Développement<br/>
