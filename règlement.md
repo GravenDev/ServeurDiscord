@@ -77,7 +77,7 @@ Cela lui permettra d'assimiler la logique et de s'améliorer.
 
 ## III. Vos limites
 ### 1 - Irrespect
-Le troll, le spam, l'irrespect ou les instules ne sont bien sûr pas tolérés sur le discord.
+Le troll, le spam, l'irrespect ou les insultes ne sont bien sûr pas tolérés sur le discord.
 
 ### 2 - Publicité & Recrutement
 La publicité et le recrutement, que ce soit sur le serveur ou en messages privés à certains de nos membres, sont strictement prohibés.
