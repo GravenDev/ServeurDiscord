@@ -4,4 +4,4 @@ vous avez des questions relatives aux vidéos de Graven.
 
 ### Permissions :
 ![](https://img.shields.io/badge/Lecture-OUI-green?style=for-the-badge) <br/>
-![](https://img.shields.io/badge/Ecriture-OUI-green?style=for-the-badge)
+![](https://img.shields.io/badge/Ecriture-NON-red?style=for-the-badge)
