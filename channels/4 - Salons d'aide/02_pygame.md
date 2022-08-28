@@ -12,6 +12,7 @@ librairie Pygame
 | Nom | ID|
 |:---|:---|
 | TNtube#9999 | 610843701861679108 |
+| Pyno#7065 | 972512610366935172 |
 
 # Message(s) Épinglé(s)
 
