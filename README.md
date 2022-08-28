@@ -41,4 +41,3 @@ au serveur à tout moment en faisant une pull-request sur ce repository.
 
 ### Informations essentielles :
 [Règlement du serveur](https://github.com/GravenDev/ServeurDiscord/blob/master/r%C3%A8glement.md) <br/>
-[Rôles](https://github.com/GravenDev/ServeurDiscord/blob/master/roles.md)

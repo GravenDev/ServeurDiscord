@@ -15,6 +15,7 @@ langage Java et les langages de la JVM.
 | RedsTom#4616 | 723471302123323434 |
 | Il_totore#9133 | 403609872123428864 |
 | enimaloc#5587 | 136200628509605888 |
+| Tartur#5891 | 797145312438648832 |
 
 # Message(s) Épinglé(s)
 

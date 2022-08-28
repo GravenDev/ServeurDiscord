@@ -1,6 +1,6 @@
-# `#❔︱videos-graven`
-Le salon `#❔︱videos-graven` est un salon donnant la marche à suivre lorsque 
-vous avez des questions relatives aux vidéos de Graven.
+# `#📢︱annonces-live`
+Salon des annonces sur la sortie de nouveaux lives sur la chaine
+Twitch [`GravenYT`](https://twitch.tv/gravenyt)
 
 ### Permissions :
 ![](https://img.shields.io/badge/Lecture-OUI-green?style=for-the-badge) <br/>

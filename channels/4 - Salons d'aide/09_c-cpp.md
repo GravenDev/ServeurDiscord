@@ -8,8 +8,13 @@ langages C et C++
 
 <br/>
 
-# Liste des référents 
+# Liste des référents CPP
 | Nom | ID|
 |:---|:---|
 | AntoineJT#4975 | 183602738435719168|
 | TNtube#9999 | 610843701861679108 |
+
+# Liste des référents C
+| Nom | ID|
+|:---|:---|
+| ⚡Zahkthar⚡#1095 | 210017724905160704 |
