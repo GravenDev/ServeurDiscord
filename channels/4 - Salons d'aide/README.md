@@ -3,12 +3,12 @@ Cette catégorie regroupe les salons d'aide sur les différents
 langages.
 
 ## Salons :
-- [`#❔︱videos-graven`](./00_videos-graven.md)
-- [`#❔︱python`](./01_python.md)
-- [`#❔︱pygame`](./02_pygame.md)
-- [`#❔︱java︱jvm`](./03_java-jvm.md)
-- [`#❔︱minecraft`](./04_minecraft.md)
-- [`#❔︱applications-mobiles`](./05_applications-mobiles.md)
+- [`#❔︱python`](./00_python.md)
+- [`#❔︱pygame`](./01_pygame.md)
+- [`#❔︱java︱jvm`](./02_java-jvm.md)
+- [`#❔︱minecraft`](./03_minecraft.md)
+- [`#❔︱applications-mobiles`](./04_applications-mobiles.md)
+- [`#❔︱dart︱flutter`](./05_dart-flutter.md)
 - [`#❔︱html︱css︱js`](./06_html-css-js.md)
 - [`#❔︱node︱discord-js︱typescript`](./07_node-discord-js-typescript.md)
 - [`#❔︱php`](./08_php.md)
