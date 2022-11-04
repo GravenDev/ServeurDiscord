@@ -1,5 +1,5 @@
-# `#📜︱repo-git`
-Le salon `#📜︱repo-git` est un salon traçant les différentes modifications
+# `#📜︱git-serveur`
+Le salon `#📜︱git-serveur` est un salon traçant les différentes modifications
 du repository github décrivant le discord (https://github.com/GravenDev/ServeurDiscord)
 
 ### Permissions :
