@@ -8,3 +8,4 @@ comme le règlement ou les annonces.
 - [`#📢︱annonces-live`](3_annonces-live.md)
 - [`#📢︱annonces-discord`](4_annonces-discord.md)
 - [`#🎞︱anciennes-vidéos`](5_anciennes-vidéos.md)
+- [`#📜︱git-serveur`](6_git-serveur.md)
