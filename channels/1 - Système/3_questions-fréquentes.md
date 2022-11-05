@@ -1,6 +1,5 @@
-# `#❔︱videos-graven`
-Le salon `#❔︱videos-graven` est un salon donnant la marche à suivre lorsque 
-vous avez des questions relatives aux vidéos de Graven.
+# `#👾︱questions-fréquentes`
+Le salon `#👾︱questions-fréquentes` est un forum répondant aux questions que vous vous posez le plus souvent sur le serveur
 
 ### Permissions :
 ![](https://img.shields.io/badge/Lecture-OUI-green?style=for-the-badge) <br/>

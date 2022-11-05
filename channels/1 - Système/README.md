@@ -4,8 +4,10 @@ comme le règlement ou les annonces.
 
 ## Salons :
 - [`#📖︱règlement`](1_règlement.md)
-- [`#📢︱annonces`](2_annonces.md)
-- [`#📢︱annonces-live`](3_annonces-live.md)
-- [`#📢︱annonces-discord`](4_annonces-discord.md)
-- [`#🎞︱anciennes-vidéos`](5_anciennes-vidéos.md)
-- [`#📜︱git-serveur`](6_git-serveur.md)
+- [`#🎭︱roles`](2_roles.md)
+- [`#👾︱questions-fréquentes`](3_questions-fréquentes.md)
+- [`#📢︱annonces`](4_annonces.md)
+- [`#📢︱annonces-live`](5_annonces-live.md)
+- [`#📢︱annonces-discord`](6_annonces-discord.md)
+- [`#🎞︱anciennes-vidéos`](7_anciennes-vidéos.md)
+- [`#📜︱git-serveur`](8_git-serveur.md)
