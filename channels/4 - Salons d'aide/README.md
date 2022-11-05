@@ -19,4 +19,4 @@ langages.
 - [`#❔︱devoirs`](./13_devoirs.md)
 - [`#❔︱brainfuck`](./14_brainfuck.md)
 - [`#❔︱c-sharp︱f-shard︱vb`](./15_c-sharp-f-sharp-vb.md)
-- [`#❔︱autres`](./16_autres.md)
+- [`#❔︱autres︱other`](./16_autres-other.md)
