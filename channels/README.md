@@ -10,7 +10,6 @@ Ce dossier regroupe tous les salons du discord et leur descriptions.
   - [Annonces live](./1%20-%20Système/5_annonces-live.md)
   - [Annonces discord](./1%20-%20Système/6_annonces-discord.md)
   - [Anciennes vidéos](./1%20-%20Système/7_anciennes-vidéos.md)
-  - [Git serveur](./1%20-%20Syst%C3%A8me/8_git-serveur.md)
 - [Discord](./2%20-%20Discord)
   - [Général](./2%20-%20Discord/1_général.md)
   - [Général Dev](./2%20-%20Discord/2_général-dev.md)
@@ -38,3 +37,5 @@ Ce dossier regroupe tous les salons du discord et leur descriptions.
   - [Brainfuck](./4%20-%20Salons%20d'aide/14_brainfuck.md)
   - [C# / F#/ VB.NET](./4%20-%20Salons%20d'aide/15_c-sharp-f-sharp-vb.md)
   - [Autres](./4%20-%20Salons%20d'aide/16_autres-other.md)
+- [Archives](./5%20-%20Archives)
+  - [Git serveur](./5%20-%20Archives/1_git-serveur.md)
